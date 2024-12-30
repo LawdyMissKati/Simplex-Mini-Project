@@ -1,0 +1,2 @@
+# Simplex Mini-Project
+ Run your code on the example LP problem instance from lecture slides on Simplex (n=4, m=2)  - Increase the number of variables (n) and increase the number of constraints (m), thus  - Fixing m=2:  Rerun the code for the following values of n = [4, 10, 20, 30, 40, 50]. (in increments of 10) AND - For each of the n values above:  Rerun the code for the following values of m = [2, 6, 10, 14] (in increments of 4, just manually/randomly create additional constraints) - In total, you will test 6 * 4 = 24 total combinations.
